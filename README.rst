@@ -1,8 +1,9 @@
-# Thin Airfoil Theory CLI
+Thin Airfoil Theory CLI
+=======================
 
-## Installation
+Installation
+------------
 
 Clone repo and:
 
-```pipx install .```
-
+``pipx install .``
